@@ -1,0 +1,85 @@
+{
+  "month": "Janeiro/2025",
+  "income": 5490,
+  "expenses": [
+    {
+      "id": "1",
+      "description": "Mandar dinheiro",
+      "amount": 460,
+      "dueDate": "2025-01-30",
+      "category": "Transferência",
+      "paid": false
+    },
+    {
+      "id": "2",
+      "description": "Gastos gerais",
+      "amount": 400,
+      "dueDate": "2025-01-30",
+      "category": "Pessoal",
+      "paid": false
+    },
+    {
+      "id": "3",
+      "description": "Condomínio",
+      "amount": 940,
+      "dueDate": "2025-01-10",
+      "category": "Moradia",
+      "paid": false
+    },
+    {
+      "id": "4",
+      "description": "Internet Casa",
+      "amount": 100,
+      "dueDate": "2025-01-13",
+      "category": "Internet",
+      "paid": false
+    },
+    {
+      "id": "5",
+      "description": "Internet Stella",
+      "amount": 100,
+      "dueDate": "2025-01-13",
+      "category": "Internet",
+      "paid": false
+    },
+    {
+      "id": "6",
+      "description": "Pedro",
+      "amount": 275,
+      "dueDate": "2025-01-10",
+      "category": "Pessoal",
+      "paid": false
+    },
+    {
+      "id": "7",
+      "description": "Luz",
+      "amount": 180,
+      "dueDate": "2025-01-10",
+      "category": "Moradia",
+      "paid": false
+    },
+    {
+      "id": "8",
+      "description": "Consórcio G",
+      "amount": 250,
+      "dueDate": "2025-01-15",
+      "category": "Consórcio",
+
+        "paid": false
+    },
+    {
+      "id": "9",
+      "description": "Consórcio S",
+      "amount": 250,
+      "dueDate": "2025-01-15",
+      "category": "Consórcio",
+      "paid": false
+    }
+ 
+
+
+    
+
+
+
+
