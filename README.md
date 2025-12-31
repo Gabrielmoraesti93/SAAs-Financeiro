@@ -143,21 +143,7 @@ Gabriel Santos Moraes
 
 ---
 
-## 🔥 Próximos passos que recomendo (bem profissionais)
 
-1️⃣ Criar `backend/` e `frontend/` se ainda não existirem  
-2️⃣ Adicionar `.env.example`  
-3️⃣ Criar `docs/arquitetura.md`  
-4️⃣ Criar `LICENSE` (MIT)  
-5️⃣ Ajustar o nome do repositório para `saas-financeiro` (padrão)
-
-Se quiser, no próximo passo eu posso:
-- 🔹 Criar a **estrutura real das pastas**
-- 🔹 Montar o **backend base (Express)**
-- 🔹 Montar o **frontend inicial**
-- 🔹 Ajustar para **deploy automático no Vercel**
-
-Só me diz qual você quer seguir 🚀
 
 
 
